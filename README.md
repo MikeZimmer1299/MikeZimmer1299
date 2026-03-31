@@ -2,12 +2,13 @@
 
 Hi there 👋
 <br>
-My name is ***Michael Zimmer***. Currently, I am majoring in Computer Science at Wright State University. I achieved an Associate of Applied Science in Computer Information Systems: Network Engineering degree from Sinclair Community College in Spring 2023.
+My name is <span style="color:red">Michael Zimmer.</span> Currently, I am majoring in Computer Science at Wright State University. I achieved an Associate of Applied Science in Computer Information Systems: Network Engineering degree from Sinclair Community College in Spring 2023.
 <br>
+I am passionate about developing usable products and 
 
+## <span style="color:SlateBlue">About Me</span>
 
-## About Me
-### Languages
+### <span style="color:MediumSeaGreen">Languages</span>
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -19,7 +20,7 @@ My name is ***Michael Zimmer***. Currently, I am majoring in Computer Science at
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 
-### Developer Tools
+### <span style="color:MediumSeaGreen">Developer Tools</span>
 
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
@@ -34,31 +35,20 @@ My name is ***Michael Zimmer***. Currently, I am majoring in Computer Science at
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 
-### Operating Systems
+### <span style="color:MediumSeaGreen">Operating Systems</span>
 
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 
-## What I'm currently working on
-### Cigars and Whiskey
+## <span style="color:SlateBlue">Projects</span>
+### <span style="color:MediumSeaGreen">Cigars and Whiskey</span>
 ![Static Badge](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat)
 
 [[CigarWhiskey-KotlinApp]](https://github.com/MikeZimmer1299/CigarWhiskey-KotlinApp)
 
 This app is built using Kotlin
 
-<!--
-**MikeZimmer1299/MikeZimmer1299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <span style="color:MediumSeaGreen">Operating System</span>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Operating System Project](https://github.com/MikeZimmer1299/Operating_System_Project)
