@@ -49,9 +49,9 @@ I am passionate about developing usable products and ways to optimize organizati
 ### $\color{MediumSeaGreen}\text{EmberTrack}$
 ![Static Badge](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat) <br>
 [EmberTrack App](https://github.com/MikeZimmer1299/CigarWhiskey-KotlinApp) & [EmberTrack Website](https://github.com/MikeZimmer1299/CigarWhiskey_WebApp) <br>
-$\color{Green}\text{EmberTrack}$ is a full-stack project, joining the mobility of a mobile application and the comfort of a web application. With $\color{Green}\text{EmberTrack}$, you are able to store your cigar and whiskey collection and reviews in a localized environment. The data is stored locally on the mobile application, with the option to be stored on the cloud as well, while the web application is stored exclusively in a cloud environment. With use of the cloud, you are able to sync your reviews between the mobile and web applications.
+$\color{Green}\text{EmberTrack}$ is a full-stack application that combines the mobility of a mobile app with the convenience of a web platform. It allows users to store and manage their cigar and whiskey collections, along with personal reviews, in a localized environment. On mobile, data is stored locally with an optional cloud backup, while the web application operates entirely in the cloud. Cloud synchronization enables seamless access to your collections and reviews across both platforms.
 <br>
-Currently, the website application is in its early stages of planning and 
+Currently, the web application is in the early stages of planning and development, with initial architecture and feature sets still being established.
 <br>
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
