@@ -36,6 +36,7 @@ I am passionate about developing usable products and ways to optimize organizati
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 
 
@@ -48,15 +49,15 @@ I am passionate about developing usable products and ways to optimize organizati
 ### $\color{MediumSeaGreen}\text{EmberTrack}$
 ![Static Badge](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat) <br>
 [EmberTrack App](https://github.com/MikeZimmer1299/CigarWhiskey-KotlinApp) & [EmberTrack Website](https://github.com/MikeZimmer1299/CigarWhiskey_WebApp) <br>
-$\color{Green}\text{EmberTrack}$ is a full-stack project, joining the mobility of a mobile application and the comfort of a web application. With $\color{Green}\text{EmberTrack}$, you are able to store your cigar and whiskey collection and reviews in a localized environment. The data is stored locally on the mobile application, with the option to be stored on the cloud as well, while the web application is stored exclusively in a cloud environment. With use of the cloud, you are able to sync your reviews between the mobile and web applications.<br>
+$\color{Green}\text{EmberTrack}$ is a full-stack project, joining the mobility of a mobile application and the comfort of a web application. With $\color{Green}\text{EmberTrack}$, you are able to store your cigar and whiskey collection and reviews in a localized environment. The data is stored locally on the mobile application, with the option to be stored on the cloud as well, while the web application is stored exclusively in a cloud environment. With use of the cloud, you are able to sync your reviews between the mobile and web applications.
+<br>
+Currently, the website application is in its early stages of planning and 
+<br>
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
-
-### $\color{MediumSeaGreen}\text{Dandy}$
-![Static Badge](https://img.shields.io/badge/Status-Planning_Phase-red)<br>
-Dandy is a VLC Media Player, which makes use of FFmpeg. Created alongside [Wamski](https://github.com/Wamski) and <br>
-[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
