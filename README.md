@@ -61,3 +61,8 @@ Currently, the web application is in the early stages of planning and developmen
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+
+### $\color{MediumSeaGreen}\text{Dandy}$
+![Static Badge](https://img.shields.io/badge/Status-Planning_Phase-red)<br>
+Dandy is a VLC Media Player, which makes use of FFmpeg. Created alongside [Wamski](https://github.com/Wamski) and [OfficeCoffee](https://github.com/OfficeCoffee), the first major goal for Dandy is to have the ability to play MP4 video.<br>
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
