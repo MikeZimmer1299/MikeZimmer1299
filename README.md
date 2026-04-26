@@ -48,7 +48,7 @@ I am passionate about developing usable products and ways to optimize organizati
 ## $\color{SlateBlue}\text{Projects}$
 ### $\color{MediumSeaGreen}\text{EmberTrack}$
 ![Static Badge](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat) <br>
-[EmberTrack App](https://github.com/MikeZimmer1299/CigarWhiskey-KotlinApp) & [EmberTrack Website](https://github.com/MikeZimmer1299/CigarWhiskey_WebApp) <br>
+[EmberTrack App](https://github.com/MikeZimmer1299/EmberTrack-App) & [EmberTrack Website](https://github.com/MikeZimmer1299/EmberTrack-Web) <br>
 $\color{Green}\text{EmberTrack}$ is a full-stack application that combines the mobility of a mobile app with the convenience of a web platform. It allows users to store and manage their cigar and whiskey collections, along with personal reviews, in a localized environment. On mobile, data is stored locally with an optional cloud backup, while the web application operates entirely in the cloud. Cloud synchronization enables seamless access to your collections and reviews across both platforms.
 <br>
 Currently, the web application is in the early stages of planning and development, with initial architecture and feature sets still being established.
