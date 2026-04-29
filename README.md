@@ -53,6 +53,8 @@ $\color{Green}\text{EmberTrack}$ is a full-stack application that combines the m
 <br>
 Currently, the web application is in the early stages of planning and development, with initial architecture and feature sets still being established.
 <br>
+The cloud service is currently in its planning phase, as it is the final piece of the puzzle to join the mobile and web applications together.
+<br>
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
